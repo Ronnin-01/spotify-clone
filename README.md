@@ -5,13 +5,14 @@ A full-featured **Spotify Clone** built using **Flutter**, **BLoC**, **Clean Arc
 ## 📸 Screenshots
 
 ### 🖼️ Theme Mode
-![Splash Screen](assets/images/choose_mode.jpg)
+<img src="assets/images/choose_mode.jpg" alt="Theme Mode" width="250"/>
 
 ### 🔐 Initial
-![Initial Dark](assets/images/initial_dark.jpg)  ![Initial Light](assets/images/initial_dark.jpg)
+<img src="assets/images/initial_dark.jpg" alt="Initial Dark" width="250"/>
+<img src="assets/images/initial_dark.jpg" alt="Initial Light" width="250"/>
 
 ### ▶️ Player
-![Player](assets/images/player.jpg)
+<img src="assets/images/player.jpg" alt="Player" width="250"/>
 
 ---
 
