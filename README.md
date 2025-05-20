@@ -2,6 +2,17 @@
 
 A full-featured **Spotify Clone** built using **Flutter**, **BLoC**, **Clean Architecture**, and **Firebase**. This app demonstrates scalable architecture, dynamic theming, authentication, and real-time audio playback with favorites management.
 
+## 📸 Screenshots
+
+### 🖼️ Theme Mode
+![Splash Screen](assets/images/choose_mode.jpg)
+
+### 🔐 Initial
+![Initial Dark](assets/images/initial_dark.jpg)  ![Initial Light](assets/images/initial_dark.jpg)
+
+### ▶️ Player
+![Player](assets/images/player.jpg)
+
 ---
 
 ## 🚀 Features
